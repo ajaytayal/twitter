@@ -1,0 +1,10 @@
+*{
+	font:normal 15px "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	padding:0;
+	margin:0;
+}
+body{margin:20px;}
+h1{font-size:30px; font-weight:600; text-align:center; border-bottom:1px solid #ccc; padding:20px;}
+.textarea, .textareaSelect{height:100px; width:500px; position:relative;border:1px solid #000;margin-top:20px; padding:5px;}
+.textareaSelect:before{content: 'Type here';color: #eee;position: absolute;}
+ul{list-style:none; margin-top:20px;}

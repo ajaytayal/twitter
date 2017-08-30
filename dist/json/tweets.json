@@ -1,0 +1,5 @@
+{"tweets":[
+    { "id":"1","name":"Ajay", "message":"This is the first message" },
+    { "id":"2","name":"Vijay", "message":"This is the second message" },
+    { "id":"3","name":"Sanjay", "message":"This is the third message" }
+]}
